@@ -1,0 +1,4 @@
+1. Awaiting rpc requests:
+    go run .\rpc\receiver\rpc_server.go
+
+2. Requesting fib
